@@ -2,7 +2,7 @@
 name = "PyOctaveBand"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <your@name.com>"]
+authors = ["Tri Duc Nguyen <tridnguyen97@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
